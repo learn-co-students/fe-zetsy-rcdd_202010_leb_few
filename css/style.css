@@ -17,4 +17,26 @@ body {
 	padding: 0 45px 20px;
 }
 
-/* Write all remaining styles here */
+img{
+  border: 5px solid #727e8a;
+}
+
+h1,h2{
+  color:#727e8a;
+}
+
+#learn{
+  text-decoration: none;
+}
+
+#copyright{
+  float: right;
+}
+
+
+
+
+
+
+
+
