@@ -18,3 +18,20 @@ body {
 }
 
 /* Write all remaining styles here */
+h1{
+  color: silver;
+}
+div + img{
+  width: 100%;
+}
+footer{
+  display: flex;
+}
+footer a{
+  margin: 5px;
+}
+
+
+
+
+
