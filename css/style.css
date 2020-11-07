@@ -16,5 +16,26 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
+.rightdiv{
+  position: fixed;
+  top:0px;
+  bottom: 0px;
+  right:0px;
+  width: 240px;
+  background-color: rgb(243,235,233);
+}
+.leftdiv{
+  position: fixed;
+  top:0px;
+  bottom: 0px;
+  left:0px;
+  width: 240px;
+    background-color: rgb(243,235,233);
+}
+.middiv{
+  height: 100vh;
+  padding-right: 240px;
+  padding-left: 240px;
+}
 
 /* Write all remaining styles here */
