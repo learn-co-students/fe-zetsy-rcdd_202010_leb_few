@@ -16,5 +16,27 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
+h1 {
+	padding-bottom: 10px;
+	margin: 0 0 5px;
+	font-size: 5em;
+	font-weight: normal;
+	font-family: 'Baskerville', serif;
+	border-bottom: 1px solid #ccc;
+}
+h2 {
+	color: rgb(111,127,122);
+	font-size: 2em;
+}
 
+p  {
+	color: #555;
+	font-size: 1em;
+	margin: 0 0 20px 0;
+}
+
+
+footer{
+text-align: right;
+}
 /* Write all remaining styles here */
